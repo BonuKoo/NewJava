@@ -1,0 +1,17 @@
+package ch4;
+
+public class ex07 {
+//1부터 45까지의 수 중에 랜덤하게 6개를 추출해라
+	public static void main(String[] args) {
+			//1부터 45까지
+		int[]num = new int[6];
+		
+		for (int i=0; i<num.length; i++)
+			num[i] = (int)(Math.random()*50);  //1부터 50까지
+		
+		for (int i=0; i<num.length; i++)     
+			System.out.print(num[i] + ", ");	
+		
+	}
+
+}

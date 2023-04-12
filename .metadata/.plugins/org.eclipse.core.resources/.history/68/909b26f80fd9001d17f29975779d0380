@@ -1,0 +1,33 @@
+package ch4;
+
+public class ex04_self {
+
+	public static void main(String[] args) {
+		/*최대값, 최소값 10개 시도, 배열을 사용해서
+		 * 1. int 배열 10개 생성,
+		 * 2. 랜덤함수 이용해서 10개 초기화
+		 * 3. 최대값, 최소값 출력
+		 * 4. for문 if문 다 들어가라
+		 */
+		
+		int [] num = new int[10];
+		
+		int max,min;    //최대값 최소값 변수 
+		
+		for(int i = 0; i<=10; i++) {
+		num [i] = (int)(Math.random()*100);	
+	
+		max = min = num[0];
+		
+		for(i=0; i<num.length; i++) 
+			if(num[i]>max) 
+				max = num[i];
+		
+		for(i=0; i<num.length; i++)
+			if(num[i]<min)
+				min = num[i];
+		
+		System.out.println ("최대값:"+max + ", " + "최소값: "+ min);
+	}
+	}
+}
