@@ -13,10 +13,8 @@ public class ex04 {
 	
 		for(int i=0; i<5; i++) {	      //i가 0부터 시작해서 5보다 낮아질 때까지 반복한다.	
 			for(int j=0; j< 4-i;  j++)	  // 
-				
-				System.out.print("S");    //j 0일 때 '공백'을 4번 출력하고, 1일 때 3번 출력한다 왜냐? 열이 바뀔 때마다 j 값이 하나씩 줄어드니까.	
+				System.out.print(" ");    //j 0일 때 's'을 4번 출력하고, 1일 때 3번 출력한다 왜냐? 열이 바뀔 때마다 j 값이 하나씩 줄어드니까.	
 			for(int k=0; k<i+1; k++)      //안녕? 나는 k야. k는 i가 0일 때도 일단 1을 추가해서, 별을 하나 입력 할 수 있어
-			
 			System.out.print("*");
 			
 		System.out.println("");
