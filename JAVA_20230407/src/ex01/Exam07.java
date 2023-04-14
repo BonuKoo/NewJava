@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exam07 {
   // 정수 하나 입력받아서 1-4, 1학년, 2학년, 3학년, 4학년
-	
+  // 몇학년인지, 스위치 문을 이용해서 출력
 	public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int grade = sc.nextInt();

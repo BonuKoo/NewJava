@@ -28,7 +28,7 @@ public class Exam01 {
 		System.out.println(Arrays.toString(tmp));
 		System.out.println("--------------------------------");
 		
-		int[] arr = {10,20,30,40,50};0
+		int[] arr = {10,20,30,40,50};
 		int[] arr2 = new int[10];
 		
 		System.arraycopy(arr, 0 , arr2, 0, 5);

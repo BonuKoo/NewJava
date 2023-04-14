@@ -13,7 +13,7 @@ public class Exam02 {
 		
 		String[] str2 = new String[] {"kor2", "eng2", "math2"}; 
 		
-		System.out.println(Arrays.toString(str));0
+		System.out.println(Arrays.toString(str));
 		System.out.println(Arrays.toString(str2)); 		//ctrl + , = 오류로 커서 옮김
 
 		String msg = "korea";

@@ -19,3 +19,6 @@ public class Exam03 {
 	}
 
 }
+
+//tmp = 11    // num 11
+//sum = 1,	  //-> num 12
