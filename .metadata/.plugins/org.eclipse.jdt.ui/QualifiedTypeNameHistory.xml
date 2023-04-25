@@ -4,11 +4,21 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="ex06.추명선"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.awt.Robot"/>
     <fullyQualifiedTypeName name="ex01.Animal"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="ex01.Searchable"/>
+    <fullyQualifiedTypeName name="ex01.Television"/>
+    <fullyQualifiedTypeName name="ex01.RemoteControl"/>
+    <fullyQualifiedTypeName name="ex02.A.B"/>
+    <fullyQualifiedTypeName name="ex03.A.B"/>
+    <fullyQualifiedTypeName name="ex03.A.C"/>
+    <fullyQualifiedTypeName name="ex05.Button.clickListener"/>
+    <fullyQualifiedTypeName name="ex07.RemoteControl"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="ex08.Calculable"/>
+    <fullyQualifiedTypeName name="ex09.Calculable"/>
 </qualifiedTypeNameHistroy>
