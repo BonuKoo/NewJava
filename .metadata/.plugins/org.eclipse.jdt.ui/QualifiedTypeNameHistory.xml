@@ -18,7 +18,6 @@
     <fullyQualifiedTypeName name="ex03.A.C"/>
     <fullyQualifiedTypeName name="ex05.Button.clickListener"/>
     <fullyQualifiedTypeName name="ex07.RemoteControl"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="ex08.Calculable"/>
     <fullyQualifiedTypeName name="ex09.Calculable"/>
     <fullyQualifiedTypeName name="ex01.lamda"/>
@@ -29,4 +28,11 @@
     <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="java.util.regex.Matcher"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="ex02.Applebox"/>
+    <fullyQualifiedTypeName name="ex02.OrangeBox"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
