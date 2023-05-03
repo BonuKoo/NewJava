@@ -19,8 +19,6 @@ public class BoundedWildcardBase {
 	b1.setOb(b2.getOb()+b3.getOb());	//원래 b1이 set이어야 하는데, 지금 b3이 set이다. 근데 오류는 안뜬다.		
 										//오류가 뜨게 수정해라.
 	} 
-
-	
 	
 public static void main(String[] args) {		
 		
