@@ -23,16 +23,9 @@ public class square {
 			
 			@Override
 			public int square(int x) {
-				// TODO Auto-generated method stub
 				return 0;
 			}
 		};
-				
-		
 		System.out.println(m.square(30));
-			
-		
-		
 	}
-
 }
